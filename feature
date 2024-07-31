@@ -1,1 +1,1 @@
-conflict 2
+conflict happened and I wrote what I wanted
