@@ -1,1 +1,1 @@
-conflict happened and I wrote what I wanted
+feature1
